@@ -1,11 +1,11 @@
 {
-  "name": "html-css-01",
+  "name": "java-script-practice-01",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/html-css-01/",
+    "build": "vite build --base=/java-script-practice-01/",
     "preview": "vite preview"
   },
   "devDependencies": {
